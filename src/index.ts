@@ -11,6 +11,7 @@ import * as nb from './locales/nb';
 import * as nl from './locales/nl';
 import * as pl from './locales/pl';
 import * as pt from './locales/pt';
+import * as ru from './locales/ru';
 import * as tr from './locales/tr';
 
-export { ar, be, de, es, fr, he, id, it, lt, nb, nl, pl, pt, tr };
+export { ar, be, de, es, fr, he, id, it, lt, nb, nl, pl, pt, ru, tr };
